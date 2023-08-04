@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **chmarques93@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/marquesch/](linkedin)
+- 📄 Know about my experiences [linkedin](linkedin.com/in/marquesch/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
