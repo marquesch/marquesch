@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular @Udemy**
 
-- 💬 Ask me about **java, python, physics**
+- 💬 Ask me about **java, python, math, physics**
 
 - 📫 Reach me at **chmarques93@gmail.com**
 
