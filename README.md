@@ -10,7 +10,7 @@
 <small> - Me pergunte sobre **java, python, PHP, matemática, física**</small>
 
 - 📫 Reach me at **chmarques93@gmail.com**
-<small> - Me contate em **chmarques93@gmail.com**</small>
+<p style="font-size: 9px"> - Me contate em **chmarques93@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
