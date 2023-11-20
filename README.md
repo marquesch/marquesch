@@ -1,13 +1,16 @@
 <h1 align="center">Hey! I'm Carlos Marques</h1>
 <h5 align="center">Olá! Sou Carlos Marques</h5>
 <h3 align="center">A soon to be Full-Stack Developer</h3>
-<h6 align="center">Um programador Full-Stack em desenvolvimento</h6>
+<h5 align="center">Um programador Full-Stack em desenvolvimento</h5>
 
 - 🌱 I’m currently learning **PHP @Laracasts**
+<small> - Estou aprendendo **PHP @Laracasts**</small>
 
 - 💬 Ask me about **java, python, PHP, math, physics**
+<small> - Me pergunte sobre **java, python, PHP, matemática, física**</small>
 
 - 📫 Reach me at **chmarques93@gmail.com**
+<small> - Me contate em **chmarques93@gmail.com**</small>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
