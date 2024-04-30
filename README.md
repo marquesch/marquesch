@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Carlos Marques</h1>
-<h3 align="center">A QA analyst!</h3>
+<h3 align="center">A QA analyst</h3>
 
 - 🌱 I’m currently learning **Laravel @Laracasts**
 
