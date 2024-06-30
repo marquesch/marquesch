@@ -1,9 +1,9 @@
 <h1 align="center">Hey! I'm Carlos Marques</h1>
 <h3 align="center">A QA analyst</h3>
 
-- 🌱 I’m currently learning **Laravel @Laracasts**
+- 🌱 I’m currently learning **Mobile Development**
 
-- 💬 Ask me about **java, python, math, physics**
+- 💬 Ask me about **python, automated testing, math, physics**
 
 - 📫 Reach me at **chmarques93@gmail.com**
 
