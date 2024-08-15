@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Carlos Marques</h1>
 <h3 align="center">A QA analyst</h3>
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Playwright and Pytest for automated testing**
 
 - 💬 Ask me about **python, automated testing, math, physics**
 
