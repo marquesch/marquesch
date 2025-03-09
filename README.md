@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Carlos Marques</h1>
-<h3 align="center">A QA Engineer and aspiring Back-end Developer</h3>
+<h3 align="center">A Back-end Developer</h3>
 
 - 💬 Ask me about **python, automated testing, math, physics**
 
