@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Carlos Marques</h1>
 <h3 align="center">A Back-end Developer</h3>
 
-- 💬 Ask me about **python, math, physics**
+- 💬 Ask me about **python, go, math, physics**
 
 - 📫 Reach me at **chmarques93@gmail.com**
 
